@@ -10,7 +10,7 @@ public class Literal : MonoBehaviour
         int num;    //정수형 변수
         double su;  //실수형 변수
         bool flag;  //부울형 변수
-        string str; //문자열형 변수
+        string str; //문자열 변수
         char c;     //문자형 변수
 
         //[2] 변수에 값 저장
